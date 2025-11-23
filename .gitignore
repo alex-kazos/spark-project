@@ -1,0 +1,15 @@
+# pycharm project files
+.idea/
+# python cache files
+__pycache__/
+*.pyc
+# virtual environment folder
+venv/
+.env/
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# pdf files
+*.pdf
+# csv files
+*.csv
