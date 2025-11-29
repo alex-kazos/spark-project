@@ -11,5 +11,17 @@ venv/
 
 # pdf files
 *.pdf
+# text files
+*.txt
+
+
 # csv files
 *.csv
+# pareque files
+*.parquet
+
+# checksum files
+*.crc
+
+# success files
+_SUCCESS
